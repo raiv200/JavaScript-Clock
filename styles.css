@@ -6,6 +6,10 @@ body{
   margin: 0 auto;
   padding: 0;
 }
+h1{
+    font-size:3.5rem;
+    font-weight:900;
+}
 
 #clockContainer{
 
